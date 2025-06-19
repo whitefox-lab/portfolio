@@ -1,0 +1,21 @@
+{
+  "name": "Whitefox's Nest",
+  "short_name": "WFN",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#121212",
+  "description": "Whitefox's Nest",
+  "icons": [
+    {
+      "src": "assets/icons/logo/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icons/logo/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
