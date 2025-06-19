@@ -855,7 +855,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('../images/background.png');
+    background-image: url('assets/images/background.png');
     background-size: cover;
   }
 
